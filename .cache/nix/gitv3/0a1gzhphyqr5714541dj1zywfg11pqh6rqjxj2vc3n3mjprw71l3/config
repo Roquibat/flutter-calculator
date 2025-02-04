@@ -1,0 +1,6 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = true
+[remote "origin"]
+	url = ssh://git@github.com/exlinc/jupyenv.git

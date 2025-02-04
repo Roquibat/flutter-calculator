@@ -1,0 +1,19 @@
+WorkspaceNames=" 1 "
+TaskBarShowMailboxStatus = 0
+TaskBarShowWorkspaces = 0
+TaskBarShowAPMAuto = 0
+TaskBarShowMailboxStatus = 0
+TaskBarShowCPUStatus = 0
+CPUStatusShowRamUsage = 0
+CPUStatusShowSwapUsage = 0
+CPUStatusShowAcpiTemp = 0
+CPUStatusShowCpuFreq = 0
+TaskBarShowMEMStatus = 0
+TaskBarShowNetStatus = 0
+TaskBarShowClock = 0
+ShowProgramsMenu = 0
+ShowSettingsMenu = 0
+ShowHelp = 0
+ShowLogoutMenu = 0
+ShowLogoutSubMenu = 0
+

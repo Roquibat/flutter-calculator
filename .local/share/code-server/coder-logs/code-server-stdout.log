@@ -1,0 +1,48 @@
+[2025-02-04T21:48:36.336Z] info  code-server 4.22.0 e5d145fdf32e82be2a0f8de9a3b05f65b13052b6
+[2025-02-04T21:48:36.336Z] info  Using user-data-dir /userdata/vscode
+[2025-02-04T21:48:36.345Z] info  Using config file /home/zyuser/.config/code-server/config.yaml
+[2025-02-04T21:48:36.345Z] info  HTTP server listening on http://0.0.0.0:30034/
+[2025-02-04T21:48:36.345Z] info    - Authentication is disabled
+[2025-02-04T21:48:36.345Z] info    - Not serving HTTPS
+[2025-02-04T21:48:36.345Z] info  Session server listening on /userdata/vscode/code-server-ipc.sock
+[21:48:37] 
+
+
+
+
+[21:48:37] 
+
+
+
+
+[21:48:38] Extension host agent started.
+[21:48:38] Extension host agent started.
+[21:48:38] Deleted uninstalled extension from disk dart-code.dart-code /userdata/vscode/extensions/dart-code.dart-code-3.90.0-universal
+[21:48:38] Deleted uninstalled extension from disk dart-code.flutter /userdata/vscode/extensions/dart-code.flutter-3.90.0-universal
+[21:48:40] [172.20.0.1][98787b7d][ManagementConnection] New connection established.
+[21:48:41] [172.20.0.1][f972326a][ExtensionHostConnection] New connection established.
+[21:48:41] [172.20.0.1][f972326a][ExtensionHostConnection] <472> Launched Extension Host Process.
+[21:48:47] [172.20.0.1][1a0fc0c1][ManagementConnection] New connection established.
+[21:48:49] [172.20.0.1][2f469f6c][ManagementConnection] New connection established.
+[21:48:50] [172.20.0.1][72e97183][ExtensionHostConnection] New connection established.
+[21:48:50] [172.20.0.1][72e97183][ExtensionHostConnection] <597> Launched Extension Host Process.
+[21:48:51] [172.20.0.1][e735cd87][ExtensionHostConnection] New connection established.
+[21:48:51] [172.20.0.1][e735cd87][ExtensionHostConnection] <608> Launched Extension Host Process.
+[21:50:07] [172.20.0.1][2f469f6c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:50:07] [172.20.0.1][e735cd87][ExtensionHostConnection] <608> Extension Host Process exited with code: 0, signal: null.
+[21:50:27] [172.20.0.1][9a1d5573][ManagementConnection] New connection established.
+[21:50:30] [172.20.0.1][53ae185b][ExtensionHostConnection] New connection established.
+[21:50:30] [172.20.0.1][53ae185b][ExtensionHostConnection] <1452> Launched Extension Host Process.
+[21:58:00] [172.20.0.1][1a0fc0c1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:58:00] [172.20.0.1][72e97183][ExtensionHostConnection] <597> Extension Host Process exited with code: 0, signal: null.
+[21:59:37] [172.20.0.1][1287fd68][ManagementConnection] New connection established.
+[21:59:39] [172.20.0.1][fb33ba42][ExtensionHostConnection] New connection established.
+[21:59:39] [172.20.0.1][fb33ba42][ExtensionHostConnection] <5873> Launched Extension Host Process.
+[22:04:39] [172.20.0.1][53ae185b][ExtensionHostConnection] <1452> Extension Host Process exited with code: 0, signal: null.
+[22:05:50] [172.20.0.1][98787b7d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:05:51] [172.20.0.1][f972326a][ExtensionHostConnection] <472> Extension Host Process exited with code: 0, signal: null.
+[22:06:22] [172.20.0.1][ae650e88][ManagementConnection] New connection established.
+[22:06:24] [172.20.0.1][1e343a0b][ExtensionHostConnection] New connection established.
+[22:06:24] [172.20.0.1][1e343a0b][ExtensionHostConnection] <8114> Launched Extension Host Process.
+[22:12:27] [172.20.0.1][ae650e88][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:12:28] [172.20.0.1][1e343a0b][ExtensionHostConnection] <8114> Extension Host Process exited with code: 0, signal: null.

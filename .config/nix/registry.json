@@ -1,0 +1,15 @@
+{
+    "flakes": [
+      {
+        "from": {
+          "id": "crpkgs",
+          "type": "indirect"
+        },
+        "to": {
+           "path": "/nix/local-flakes/cr-nix",
+           "type": "path"
+        }
+      }
+    ],
+    "version": 2
+  }

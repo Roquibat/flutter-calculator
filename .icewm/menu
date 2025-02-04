@@ -1,0 +1,2 @@
+prog "Terminal" xterm sakura terminal -d /usercode
+prog "File Manager" /usr/share/xfe/icons/default-theme/xfe.png xfe /usercode
